@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+
+  #inputContainer {
+    margin: 20px;
+    height: 30px;
+  }
+
+  .box {
+    display: inline-block;
+    background-color: #111111;
+    margin: 0;
+    position: absolute;
+  }
+  #generateBtn {
+    background-color: #316ff6;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 8px;
+  }
+  #inputNumber {
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 8px;
+  }
